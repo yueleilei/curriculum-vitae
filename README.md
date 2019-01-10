@@ -1,5 +1,5 @@
 
-#yueleilei's resume
+# yueleilei's resume
 >Yue Leilei
 
 >Xi'an Shaanxi China 710075
@@ -8,10 +8,10 @@
 
 >E-Mail:yueleilei2004@163.com
 
-###Work expericence
+### Work expericence
 2005 - preseng Hardware Engineer related work
 
-###Skill
+### Skill
 * Circuit design
 
 * PCB design
@@ -22,8 +22,8 @@
 
 * allegro
 
-###English
+### English
 * work in english
 
-###Education
+### Education
 2001 - 2005 Xi'an University of technology
